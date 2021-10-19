@@ -7,3 +7,4 @@ includes:  information about me.
 *[Things I do](./THINGS-I-DO.md)
 *[Favorite Music](./FAVORITE-MUSIC.md)
 *[Favorite Show](./FavoriteShows.md)
+[Block Of Code](./BlockOfCode.md)

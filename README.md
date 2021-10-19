@@ -6,4 +6,4 @@ includes:  information about me.
 *[Background](./BACKGROUND.md)
 *[Things I do](./THINGS-I-DO.md)
 *[Favorite Music](./FAVORITE-MUSIC.md)
-
+*[Favorite Show](./FavoriteShows.md)
